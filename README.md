@@ -6,10 +6,6 @@
 Um app para inserir e encontrar CEPs. Com o objetivo de colocar em prática assincronismo e APIs REST em flutter.
 
 Projeto desenvolvido durante o Santander Bootcamp 2023 - Mobile com Flutter.
-
-Tabela usada como referência para o cálculo:
-
-![image](https://github.com/leilaMoraes/imc_calculator/assets/109045940/c48df5b7-d4c8-4fd0-843a-af630da859da)
 </details>
 
 <details>
